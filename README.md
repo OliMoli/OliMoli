@@ -18,7 +18,7 @@ One tool, every source. Download video and music from YouTube, TikTok, Instagram
 #### Games
 
 - **The Day Before** is playable again, single-player.
-- **Crysis 2** and **Anthem**: researching what can be brought back.
+- **Anthem**: servers shut down in January 2026. Watching what can be brought back.
 - A Roblox arcade driving game, made with a friend. In development.
 
 More on the [website](https://pr0phecikdev.vercel.app).
