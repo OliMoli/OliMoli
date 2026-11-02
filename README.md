@@ -19,6 +19,7 @@ One tool, every source. Download video and music from YouTube, TikTok, Instagram
 
 - **The Day Before** is playable again, single-player.
 - **Anthem**: servers shut down in January 2026. Watching what can be brought back.
+- **The Cube, Save Us**: servers shut down in May 2026, less than two months after launch. Work in progress.
 - A Roblox arcade driving game, made with a friend. In development.
 
 More on the [website](https://pr0phecikdev.vercel.app).
